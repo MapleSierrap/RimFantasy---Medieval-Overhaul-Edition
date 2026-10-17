@@ -20,7 +20,6 @@
 		<statBases>
 				<WorkToMake>18000</WorkToMake>
 				<Mass>3</Mass>
-				<VEF_MeleeWeaponRange>2.84</VEF_MeleeWeaponRange>
 		</statBases>
 		<!--<equippedAngleOffset>-65</equippedAngleOffset>-->
 		<soundInteract>Interact_BladelinkMonoSword</soundInteract>
